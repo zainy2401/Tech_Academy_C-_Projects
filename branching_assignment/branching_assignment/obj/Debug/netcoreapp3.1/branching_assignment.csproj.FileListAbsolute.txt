@@ -1,0 +1,14 @@
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\bin\Debug\netcoreapp3.1\branching_assignment.exe
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\bin\Debug\netcoreapp3.1\branching_assignment.deps.json
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\bin\Debug\netcoreapp3.1\branching_assignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\bin\Debug\netcoreapp3.1\branching_assignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\bin\Debug\netcoreapp3.1\branching_assignment.dll
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\bin\Debug\netcoreapp3.1\branching_assignment.pdb
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.csproj.AssemblyReference.cache
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.dll
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.pdb
+C:\Users\zaiqu\source\repos\branching_assignment\branching_assignment\obj\Debug\netcoreapp3.1\branching_assignment.genruntimeconfig.cache
