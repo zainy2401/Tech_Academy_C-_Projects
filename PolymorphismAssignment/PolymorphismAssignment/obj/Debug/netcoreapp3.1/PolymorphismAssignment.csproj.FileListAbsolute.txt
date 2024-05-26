@@ -1,0 +1,14 @@
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.exe
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.deps.json
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.runtimeconfig.json
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.runtimeconfig.dev.json
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.dll
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.pdb
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.csproj.AssemblyReference.cache
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.AssemblyInfoInputs.cache
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.AssemblyInfo.cs
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.dll
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.pdb
+C:\Users\zaiqu\source\repos\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.genruntimeconfig.cache
