@@ -10,10 +10,10 @@ This repository is intended to store all my projects made from learning the C# p
 
 ### Branching Assignment, Postage Price Calculator
 
-## Final Assignment, Student Database
+### Final Assignment, Student Database
 
-## Car Insurance
+### Car Insurance
 
-## Twenty One Game
+### Twenty One Game
 
-## Newsletter App
+### Newsletter App
